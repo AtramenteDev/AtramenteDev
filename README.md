@@ -37,14 +37,13 @@
 <p align="center">
  <img src="https://skillicons.dev/icons?i=python,git,github,mongodb,vscode,php,arch,css,bots,flutter,html,js" />
 </p>
-AtramenteDev
+
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Atramentedev/Atramentedev/output/grid-snake.svg" alt="Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/AtramenteDev/AtramenteDev/main/dist/grid-snake.svg" alt="Snake Animation" width="100%" />
 </div>
  
-
 
 ---
 <div align="center">
