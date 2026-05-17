@@ -41,7 +41,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AtramenteDev/AtramenteDev/main/dist/grid-snake.svg" alt="Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/AtramenteDev/AtramenteDev/output/grid-snake.svg" alt="Snake Animation" width="100%" />
 </div>
  
 
