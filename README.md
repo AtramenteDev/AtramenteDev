@@ -1,31 +1,61 @@
-# Hi there! I'm [Atramente] 👋
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGp0NTFnZ2t6aThsNDMwMnJ6YmJreThvNGphb3lnYWhyb3Y2NHVmdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="200" />
+      </td>
 
-### 👨‍💻 Full-Stack Developer & Bot Specialist
-I specialize in building high-performance **Telegram & Discord bots** and modern **web applications**. My goal is to turn complex automation needs into seamless, user-friendly digital solutions.
+  <td width="50"></td>
+
+  <td align="center">
+  <h1>Atramente</h1>
+  <h3>Jr.Developer • Web • App • Bots</h3>
+  </td>
+</tr>
+</table>
+</div>
+
+---
+<div align="center">
+  
+<!-- Stats Badges -->
+[![GitHub Followers](https://img.shields.io/github/followers/Atramentedev?label=FOLLOWERS&style=for-the-badge&color=7c3aed&logo=github&logoColor=white)](https://github.com/AtramenteDev?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/bisug?label=STARS&style=for-the-badge&color=06b6d4&logo=github&logoColor=white)](https://github.com/AtramenteDev?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=AtramenteDev&color=4c1d95&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/AtramenteDev)
+</div>
+---
+
+## 🚀 About Me
+- 🔥 Advanced Web, app, Bots Jr.Developer 
+- 🧠 Expert in Python, PHP and other languages  
+- 🫆 Community Creator: Programmers Cicle 
+- 💼 Building bots, APIs, automations & tools  
 
 ---
 
-### 🖥️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
+## 🛠 Languages & Tools
+<p align="center">
+ <img src="https://skillicons.dev/icons?i=python,git,github,mongodb,vscode,php,arch,css,bots,flutter,html,js" />
+</p>
+AtramenteDev
 ---
 
-### 🚀 What I bring to the table:
-* **Custom Bot Development:** Advanced automation for Telegram and Discord, including API integrations (OpenAI, Stripe, etc.).
-* **Web Development:** Scalable backend systems with PHP/Node and responsive frontends.
-* **Database Design:** Secure and optimized data management using MySQL.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Atramentedev/Atramentedev/output/grid-snake.svg" alt="Snake Animation" width="100%" />
+</div>
+ 
+
 
 ---
-
-### 👨🏻‍💻 Contact
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Atramente)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/skippato)
-
-### ☕ Support My Work
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/atramentedev)
+<div align="center">
+  <!-- Buttons in one row -->
+  <a href="https://t.me/Atramente">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://t.me/AtramenteDev">
+    <img src="https://img.shields.io/badge/Community-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="Paypal.me/atramentedev">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
+  </a>
+</div>
