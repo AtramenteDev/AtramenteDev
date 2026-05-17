@@ -22,10 +22,10 @@ jobs:
           outputs: |
             dist/grid-snake.svg?color_snake=#00ff00&color_dots=#21262D,#0e4429,#006d32,#26a641,#39d353
 
-       - name: Commit and push changes
-  run: |
-    git config --global user.email "action@github.com"
-    git config --global user.name "GitHub Action"
-    git add dist/grid-snake.svg
-    git commit -m "Generate snake animation" || echo "No changes"
-    git push
+      - name: Commit and push changes
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git add dist/grid-snake.svg
+          git commit -m "Generate snake animation" || echo "No changes"
+          git push
