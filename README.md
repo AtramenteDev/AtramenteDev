@@ -1,60 +1,74 @@
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGp0NTFnZ2t6aThsNDMwMnJ6YmJreThvNGphb3lnYWhyb3Y2NHVmdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="200" />
-      </td>
 
-  <td width="50"></td>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:7c3aed&height=200&section=header&text=Atramente&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Jr.%20Developer%20%C2%BB%20Web%20%C2%BB%20App%20%C2%BB%20Bots&descAlignY=58&descSize=18" width="100%"/>
 
-  <td align="center">
-  <h1>Atramente</h1>
-  <h3>Jr.Developer • Web • App • Bots</h3>
-  </td>
-</tr>
-</table>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGp0NTFnZ2t6aThsNDMwMnJ6YmJreThvNGphb3lnYWhyb3Y2NHVmdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="180"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+[![GitHub Followers](https://img.shields.io/github/followers/AtramenteDev?label=FOLLOWERS&style=for-the-badge&color=7c3aed&logo=github&logoColor=white)](https://github.com/AtramenteDev?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/AtramenteDev?label=STARS&style=for-the-badge&color=4c1d95&logo=github&logoColor=white)](https://github.com/AtramenteDev?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=AtramenteDev&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/AtramenteDev)
+
 </div>
 
 ---
+
+## 🧭 About Me
+
+Jr. Developer passionate about building bots, web tools and automations » proficient in Python, PHP and more » creator of the [Bots of Atramente](https://t.me/BotsOfAtramente) community, always working on something new for the Telegram ecosystem.
+
+---
+
+## 🛠️ Languages & Tools
+
 <div align="center">
-  
-<!-- Stats Badges -->
-[![GitHub Followers](https://img.shields.io/github/followers/Atramentedev?label=FOLLOWERS&style=for-the-badge&color=7c3aed&logo=github&logoColor=white)](https://github.com/AtramenteDev?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/bisug?label=STARS&style=for-the-badge&color=06b6d4&logo=github&logoColor=white)](https://github.com/AtramenteDev?tab=repositories)
-[![Profile Views](https://komarev.com/ghpvc/?username=AtramenteDev&color=4c1d95&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/AtramenteDev)
+
+<img src="https://skillicons.dev/icons?i=python,php,js,html,css,flutter,mongodb,git,github,vscode,arch" />
+
 </div>
----
-
-## 🚀 About Me
-- 🔥 Advanced Web, app, Bots Jr.Developer 
-- 🧠 Expert in Python, PHP and other languages  
-- 🫆 Community Creator: Programmers Cicle 
-- 💼 Building bots, APIs, automations & tools  
 
 ---
 
-## 🛠 Languages & Tools
-<p align="center">
- <img src="https://skillicons.dev/icons?i=python,git,github,mongodb,vscode,php,arch,css,bots,flutter,html,js" />
-</p>
-
----
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AtramenteDev/AtramenteDev/main/dist/grid-snake.svg" alt="Snake Animation" width="100%" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=AtramenteDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a855f7&icon_color=7c3aed&text_color=ffffff" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AtramenteDev&theme=tokyonight&hide_border=true&background=0f0c29&ring=a855f7&fire=7c3aed&currStreakLabel=ffffff" width="48%"/>
+
 </div>
- 
 
 ---
+
+## 🐍 Contribution Graph
+
 <div align="center">
-  <!-- Buttons in one row -->
-  <a href="https://t.me/Atramente">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://t.me/AtramenteDev">
-    <img src="https://img.shields.io/badge/Community-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="Paypal.me/atramentedev">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
-  </a>
+
+<img src="https://raw.githubusercontent.com/AtramenteDev/AtramenteDev/main/dist/grid-snake.svg" alt="Snake Animation" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+[![Telegram](https://img.shields.io/badge/Telegram-@Atramente-7c3aed?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Atramente)
+[![Channel](https://img.shields.io/badge/Community-@BotsOfAtramente-4c1d95?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BotsOfAtramente)
+[![PayPal](https://img.shields.io/badge/PayPal-Support%20Me-302b63?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/atramentedev)
+
+<br/>
+
+*© 2026 Atramente » All rights reserved.*
+
 </div>
