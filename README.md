@@ -40,7 +40,7 @@ Jr. Developer passionate about building bots, web tools and automations » profi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AtramenteDev&show_icons=true&theme=tokyonight&hide_border=true&title_color=a855f7&icon_color=7c3aed" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AtramenteDev&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
 <img src="https://streak-stats.demolab.com?user=AtramenteDev&theme=tokyonight&hide_border=true&ring=a855f7&fire=7c3aed&currStreakLabel=a855f7" width="48%"/>
 
 </div>
