@@ -38,22 +38,18 @@ Jr. Developer passionate about building bots, web tools and automations » profi
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AtramenteDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a855f7&icon_color=7c3aed&text_color=ffffff" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AtramenteDev&theme=tokyonight&hide_border=true&background=0f0c29&ring=a855f7&fire=7c3aed&currStreakLabel=ffffff" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AtramenteDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=7c3aed&text_color=ffffff" width="48%"/>
+<img src="https://streak-stats.demolab.com?user=AtramenteDev&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=7c3aed&currStreakLabel=ffffff" width="48%"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Graph
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AtramenteDev/AtramenteDev/main/dist/grid-snake.svg" alt="Snake Animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/AtramenteDev/AtramenteDev/main/dist/grid-snake.svg" width="100%"/>
 
 </div>
 
@@ -64,7 +60,7 @@ Jr. Developer passionate about building bots, web tools and automations » profi
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 [![Telegram](https://img.shields.io/badge/Telegram-@Atramente-7c3aed?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Atramente)
-[![Channel](https://img.shields.io/badge/Community-@BotsOfAtramente-4c1d95?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BotsOfAtramente)
+[![Channel](https://img.shields.io/badge/Channel-@BotsOfAtramente-4c1d95?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BotsOfAtramente)
 [![PayPal](https://img.shields.io/badge/PayPal-Support%20Me-302b63?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/atramentedev)
 
 <br/>
