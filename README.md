@@ -40,6 +40,14 @@ Jr. Developer passionate about building bots, web tools and automations » profi
 
 <div align="center">
 
+<img src="https://streak-stats.demolab.com?user=AtramenteDev&theme=tokyonight&hide_border=true&ring=a855f7&fire=7c3aed&currStreakLabel=a855f7" width="48%"/>
+
+</div>
+
+---
+
+<div align="center">
+
 <img src="https://raw.githubusercontent.com/AtramenteDev/AtramenteDev/main/dist/grid-snake.svg" width="100%"/>
 
 </div>
